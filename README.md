@@ -1,6 +1,6 @@
 # riskTLP-2D
 
-We present a Matlab-based functional enviroment, riskTLP-2D that simulates risk-based thresholds for use in traffic light protocols.
+We present a Matlab-based functional enviroment, riskTLP-2D that simulates risk-based thresholds for use in defining traffic light protocols.
 
 These files are a collection of matlab programs and scripts: scriptRISK.m creates the datastructure and then scriptPLOTRISK.m plots the output results.
 
