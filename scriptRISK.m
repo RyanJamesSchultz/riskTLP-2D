@@ -35,7 +35,7 @@ S=loadPOP(S,POPfile);
 % Load in data, to continue iterations.
 %load('Rmap.mat','S');
 
-% Iteratively add vulnerability curves.
+% Iteratively add impact-risk curves.
 while(length(S.dVAR.dM)<Nt)
     
     % Prompt for percent done.
