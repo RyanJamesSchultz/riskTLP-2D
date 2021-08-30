@@ -6,15 +6,20 @@ These files are a collection of matlab programs and scripts: scriptRISK.m create
 
 References: 
             
-            Schultz, R., Beroza, G., Ellsworth, W., & Baker, J., 2020
+            R. Schultz, G.C. Beroza, & W.L. Ellsworth, & J. Baker. (2020)
             Risk‐Informed Recommendations for Managing Hydraulic Fracturing–Induced Seismicity via Traffic Light Protocols
             Bulletin of the Seismological Society of America, 110(5), 2411-2422.
             doi: 10.1785/0120200016.
             
-            Schultz, R., Beroza, G. C., & Ellsworth, W. L., 2021
+            R. Schultz, G.C. Beroza, & W.L. Ellsworth. (2021)
             A risk-based approach for managing hydraulic fracturing-induced seismicity
             Science, 372(6541), 504-507.
             doi: 10.1126/science.abg5451.
+            
+            R. Schultz, G.C. Beroza, & W.L. Ellsworth. (2021)
+            A strategy for choosing red-light thresholds to manage hydraulic fracturing induced seismicity in North America
+            Journal of Geophysical Research: Solid Earth, XX.
+            doi: xx.
 
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
