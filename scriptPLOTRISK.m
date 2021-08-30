@@ -276,6 +276,4 @@ set(gca, 'YScale', 'log');
 %    responsesN=[responsesN; Rn.MAPs(o).Mr(S.MAP.Ir)'];
 %    responsesD=[responsesD; Rd.MAPs(o).Mr(S.MAP.Ir)'];
 %end
-%dlmwrite('/Users/rjs10/Desktop/Documents/courses/2020 Spring/GS260/SA/DGSA_Light-master/EF_TLP/Parameters.temp.txt',parameters);
-%dlmwrite('/Users/rjs10/Desktop/Documents/courses/2020 Spring/GS260/SA/DGSA_Light-master/EF_TLP/ResponsesN.temp.txt', responsesN );
-%dlmwrite('/Users/rjs10/Desktop/Documents/courses/2020 Spring/GS260/SA/DGSA_Light-master/EF_TLP/ResponsesD.temp.txt', responsesD );
+
