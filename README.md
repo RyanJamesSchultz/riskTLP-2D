@@ -18,8 +18,8 @@ References:
             
             R. Schultz, G.C. Beroza, & W.L. Ellsworth. (2021)
             A strategy for choosing red-light thresholds to manage hydraulic fracturing induced seismicity in North America
-            Journal of Geophysical Research: Solid Earth, XX.
-            doi: xx.
+            Journal of Geophysical Research: Solid Earth, 126(12), e2021JB022340.
+            doi: 10.1029/2021JB022340.
 
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
